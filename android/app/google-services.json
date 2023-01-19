@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249665751953",
+    "project_id": "shatleh-7de1e",
+    "storage_bucket": "shatleh-7de1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249665751953:android:f06ec22098a2e968bb2830",
+        "android_client_info": {
+          "package_name": "com.example.shatleh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249665751953-2fpgb4q6pv2kufveqa5crhlihqa3lvc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlbOvReDAvn-TiF3QReD1d4VdzKbCh_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249665751953-2fpgb4q6pv2kufveqa5crhlihqa3lvc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
